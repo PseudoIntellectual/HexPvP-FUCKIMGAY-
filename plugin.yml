@@ -1,0 +1,10 @@
+main: com.godhatesfags.NiggerKits
+name: HexKits
+version: 1.0
+author: Sky
+description: A modular kit system
+
+commands:
+  kit:
+    description: Obtain a kit
+    usage: Syntax is /kit <kit>
